@@ -1,4 +1,4 @@
-![](https://github.com/BoubkerElmaayouf/BoubkerElmaayouf/blob/main/banner.png?raw=true)
+<div align ="center">![](https://github.com/BoubkerElmaayouf/BoubkerElmaayouf/blob/main/banner.png?raw=true)</div>
 <h1 align="center">Hi 👋, I'm Elmaayouf Boubker</h1>
 <h3 align="center">I'm a passionate frontend developer from Morocco</h3>
 <img align="right" alt="the wolf of wall street" width="400" src="wolf.gif">
