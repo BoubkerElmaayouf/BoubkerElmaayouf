@@ -8,7 +8,6 @@
    * ✒ Illistrator, photoshop, figma
    * 💻 HTML, CSS, JS, Wordpress
     
-   ## Examples of Work
-   <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
+   <img src="http://spencermorganlive.com/post/45890661433" width="100%" >
 
 
