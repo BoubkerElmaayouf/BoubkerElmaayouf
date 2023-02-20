@@ -8,6 +8,6 @@
    * ✒ Illistrator, photoshop, figma
    * 💻 HTML, CSS, JS, Wordpress
     
-   <img src="https://github.com/BoubkerElmaayouf/BoubkerElmaayouf/blob/main/wolf.gif?raw=true" width="1000" height="300" >
+   <img src="https://github.com/BoubkerElmaayouf/BoubkerElmaayouf/blob/main/wolf.gif?raw=true" width="1000" height="340" >
 
 
