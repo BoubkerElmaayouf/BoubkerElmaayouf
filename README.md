@@ -9,7 +9,8 @@
  # Skills and Experience 
      * ✒ Illistrator, photoshop, figma
      * 💻 HTML, CSS, JS, Wordpress
-   
+     
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoubkerElmaayouf&show_icons=true&theme=tokyonight)
     
    <img src="https://github.com/BoubkerElmaayouf/BoubkerElmaayouf/blob/main/wolf.gif?raw=true" width="1000" height="340" >
 
