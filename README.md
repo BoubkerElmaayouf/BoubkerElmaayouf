@@ -16,6 +16,4 @@
 
     
    <img src="https://github.com/BoubkerElmaayouf/BoubkerElmaayouf/blob/main/wolf.gif?raw=true" width="1000" height="340" >
-
-
-
+   ![Snake animation](https://github.com/{{BoubkerElmaayouf}}/{{BoubkerElmaayouf}}/blob/output/github-contribution-grid-snake.svg)
