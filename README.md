@@ -17,6 +17,5 @@
     
    <img src="https://github.com/BoubkerElmaayouf/BoubkerElmaayouf/blob/main/wolf.gif?raw=true" width="1000" height="340" >
 
-   <p align="center"><img src="https://user-images.githubusercontent.com/55116927/188241582-a98c3a80-83c9-4dfd-878e-cc126169451a.png" />  <img src="https://profile-counter.glitch.me/Hoy-Der/count.svg" /></p>
 
 
