@@ -12,4 +12,4 @@
 
 
    <a href="https://github.com/BoubkerElmaayouf/github-readme-stats"><img alt="Elmaayouf's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoubkerElmaayouf&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  ![Anurag's GitHub stats](https://github.com/BoubkerElmaayouf/BoubkerElmaayouf/blob/main/readme_banner.png)
+  ![Anurag's GitHub stats](https://github.com/BoubkerElmaayouf/BoubkerElmaayouf/blob/main/wolf.gif)
