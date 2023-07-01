@@ -1,5 +1,5 @@
 
-   ![Design and Development](https://github.com/BoubkerElmaayouf/BoubkerElmaayouf/blob/main/git%20banner.png?raw=true)
+   ![Design and Development](https://github.com/BoubkerElmaayouf/BoubkerElmaayouf/blob/main/git_banner.png)
 <div align="center">  
    <h1>Elmaayouf Boubker</h1>
 </div>
