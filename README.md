@@ -4,7 +4,7 @@
    <h1>Elmaayouf Boubker</h1>
 </div>
 
-  Hello, I'm Boubker from Morocco, and I'm a frontend Developer. I really enjoy learning languages and frameworks, as well as working in     WordPress. I also enjoy  ui, ux, and design in general. 
+  Hello, I'm Boubker from Morocco, and I'm a frontend Developer. I really enjoy learning languages and frameworks, as well as working in     WordPress. I also enjoy ui, ux, and design in general. 
   
  # Skills and Experience 
      * ✒ Illistrator, photoshop, figma
