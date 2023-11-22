@@ -8,7 +8,7 @@
   
  # Skills and Experience 
      * ✒ Illistrator, Photoshop, Figma
-     * 💻 HTML, CSS, JS, Wordpress
+     * 💻 HTML, CSS, JS, Wordpress 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BoubkerElmaayouf&theme=tokyonight-duo)](https://git.io/streak-stats)
