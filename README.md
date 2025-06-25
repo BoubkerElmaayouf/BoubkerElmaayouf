@@ -53,7 +53,7 @@ Hello! I'm Boubker from Morocco, and I'm a student at **Zone 01 Talent Oujda**, 
 
 - 🌱 Currently learning advanced concepts in system programming
 - 🔭 Working on various coding projects at Zone 01
-- 👯 Looking to collaborate on open source projects
+- 🤝 Looking to collaborate on open source projects
 - 💬 Ask me about web development, design, or anything tech-related!
 
 ## 📫 Let's Connect
